@@ -1,0 +1,6 @@
+{
+  "name": "Guía y Decálogo Normativo de Autopsias para Técnicos",
+  "description": "Guía interactiva y decálogo normativo para técnicos especialistas en anatomía patológica y medicina legal: marco legal de autopsias clínicas, judiciales, perinatales y catástrofes con múltiples víctimas según la normativa española (BOE) y europea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
